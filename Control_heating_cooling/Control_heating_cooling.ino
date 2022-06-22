@@ -41,8 +41,8 @@ unsigned long lastTime = 0;
 unsigned long timerDelay = 3000;
 
 // Replace with your network credentials
-const char* ssid = "Eniware 2";
-const char* password = "Eniware800";
+const char* ssid = "Your_SSID";
+const char* password = "Your_Passwd";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
