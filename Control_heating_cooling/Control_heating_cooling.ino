@@ -100,7 +100,7 @@ const char index_html[] PROGMEM = R"rawliteral(
   </style>
 </head>
 <body>
-  <h2>Temperature in Aquarium Eniware</h2>
+  <h2>Temperature in Aquarium</h2>
   <p>
   <h2>Temp. below 24 Relay OFF. Temp. bigger than 27 Relay ON.</h2>
   <p>
