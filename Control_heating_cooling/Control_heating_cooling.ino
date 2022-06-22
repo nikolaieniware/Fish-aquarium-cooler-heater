@@ -1,6 +1,6 @@
 /*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com  
+  Nikolay Manchev
+  ESP8266 Control Heating/Cooling water temp. in Aquarium 
 *********/
 
 // Import required libraries
